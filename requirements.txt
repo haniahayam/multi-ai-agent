@@ -2,6 +2,6 @@ streamlit
 langchain
 langchain_groq
 langchain_community
-SQLAchemy
+SQLAlchemy
 python_dotenv
 tabulate
